@@ -7,3 +7,4 @@ git push
 git stash apply
 git log --online -n 10
 -----here I am adding and chaging the file to check git diff command
+----making another change to shocase merge commands
